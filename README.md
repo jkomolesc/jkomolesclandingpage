@@ -1,2 +1,2 @@
 # jkomolesclandingpage
-A landing page for the developer
+A landing page for me
